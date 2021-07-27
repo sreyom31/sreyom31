@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreyom31
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on projects based on full stack web dev.
 - 📫 Reach me at sreyom31@gmail.com
 
