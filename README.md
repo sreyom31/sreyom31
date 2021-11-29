@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreyom Sresaan</h1>
-<h3 align="center">A persistent person, who struggles to innovate flawless ideas. Just a person in love with computers.</h3>
+<h3 align="center">It’s not a bug. It’s an undocumented feature!</h3>
 
 <p align="left"> <a href="https://twitter.com/sreyom_sresaan" target="blank"><img src="https://img.shields.io/twitter/follow/sreyom_sresaan?logo=twitter&style=for-the-badge" alt="sreyom_sresaan" /></a> </p>
 
