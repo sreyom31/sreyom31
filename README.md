@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/sreyom_sresaan" target="blank"><img src="https://img.shields.io/twitter/follow/sreyom_sresaan?logo=twitter&style=for-the-badge" alt="sreyom_sresaan" /></a> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Blockchain Technologies and Go**
 
-- 🌱 I’m currently learning **React with Redux**
+- 🌱 I’m currently learning **Go**
 
-- 👯 I’m looking to collaborate on **Web-dev projects on MERN stack**
+- 👯 I’m looking to collaborate on **Web3 projects on MERN stack**
 
-- 💬 Ask me about **React, Node.js, Express, MongoDB**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, NextJs, Typescript, Docker, Kubernetes, AWS, Devops**
 
 - 📫 How to reach me **sreyom31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sreyom_sresaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sreyom_sresaan" height="30" width="40" /></a>
+<a href="https://twitter.com/0xsreyom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sreyom_sresaan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sreyom-sresaan-nayak-a3985a1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sreyom-sresaan-nayak-a3985a1b7/" height="30" width="40" /></a>
 </p>
 
